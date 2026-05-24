@@ -1,0 +1,8 @@
+ID Registro,Fecha Alta,Nombre,Categoria,Email contacto,Telefono,DNI/NIF,Importe,Observaciones
+1,14/05/2026,Ana Garcia,Movilidad,ana.garcia@example.org,612345678,12345678Z,"1.200,50", Registro correcto 
+2,15/05/2026,Luis Perez,Medio ambiente,luis.perez@example.org,+34 699 111 222,87654321X,850,Duplicado parcial
+2,15/05/2026,Luis Perez,Medio ambiente,luis.perez@example.org,+34 699 111 222,87654321X,850,Duplicado parcial
+3,,Marta Lopez,Turismo,marta.lopez@example.org,955123456,X1234567L,,Sin importe
+4,31/02/2026,Carlos Ruiz,Cultura,correo-no-valido,12345,11111111H,"2.300,00",Fecha y contacto invalidos
+5,16/05/2026,,Salud,datos@example.org,622333444,,1200,Nombre no informado
+
