@@ -1,5 +1,6 @@
 # Open Data Clean App
 
+
 Aplicación web en Python y Streamlit para preparar conjuntos de datos abiertos antes de su publicacion. Permite cargar ficheros CSV o Excel, limpiar datos, validar calidad, anonimizar informacion sensible y descargar el dataset procesado junto con un informe de incidencias.
 
 ## Estructura del proyecto
