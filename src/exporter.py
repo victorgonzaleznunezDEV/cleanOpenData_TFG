@@ -1,4 +1,8 @@
-"""Exportacion de datasets e informes de calidad."""
+"""
+Autor: Víctor González Núñez
+Fecha: 07/07/2026
+Descripción: TFG
+""""""Exportacion de datasets e informes de calidad."""
 
 from __future__ import annotations
 

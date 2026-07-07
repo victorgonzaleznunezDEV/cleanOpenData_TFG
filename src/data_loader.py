@@ -1,3 +1,8 @@
+"""
+Autor: Víctor González Núñez
+Fecha: 07/07/2026
+Descripción: TFG
+"""
 """Funciones de carga de datasets CSV y Excel."""
 
 from __future__ import annotations

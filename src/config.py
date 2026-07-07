@@ -1,3 +1,8 @@
+"""
+Autor: Víctor González Núñez
+Fecha: 07/07/2026
+Descripción: TFG
+"""
 """Configuracion comun de la aplicacion."""
 
 from __future__ import annotations

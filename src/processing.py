@@ -1,3 +1,8 @@
+"""
+Autor: Víctor González Núñez
+Fecha: 07/07/2026
+Descripción: TFG
+"""
 """Motor principal de limpieza y transformacion de datasets."""
 
 from __future__ import annotations

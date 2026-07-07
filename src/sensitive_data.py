@@ -1,3 +1,8 @@
+"""
+Autor: Víctor González Núñez
+Fecha: 07/07/2026
+Descripción: TFG
+"""
 """Deteccion y anonimizacion local de datos sensibles."""
 
 from __future__ import annotations
