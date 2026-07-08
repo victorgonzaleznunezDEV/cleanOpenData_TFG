@@ -1,9 +1,3 @@
-"""
-Autor: Víctor González Núñez
-Fecha: 07/07/2026
-Descripción: TFG
-"""
-
 from __future__ import annotations
 
 import hashlib
