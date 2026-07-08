@@ -1,9 +1,3 @@
-"""
-Autor: Víctor González Núñez
-Fecha: 07/07/2026
-Descripción: TFG
-"""
-
 """Validacion de datasets con expectativas de calidad compatibles con Great Expectations."""
 
 from __future__ import annotations
