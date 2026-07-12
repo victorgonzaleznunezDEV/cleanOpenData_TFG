@@ -1,9 +1,3 @@
-"""
-Autor: Víctor González Núñez
-Fecha: 07/07/2026
-Descripción: TFG
-"""
-
 """Calculo de metricas e incidencias de calidad del dato."""
 
 from __future__ import annotations
