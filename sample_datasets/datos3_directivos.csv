@@ -1,0 +1,16 @@
+id,nombre,apellidos,dni,email,telefono,fecha_nacimiento,posicion,dorsal,nacionalidad,altura_cm,salario_anual
+1,Marc,Gimenez Lopez,48273615A,marc.gimenez@fcbtest.com,612345781,1998-03-12,Portero,1,España,189,2400000
+2,Adrian,Ruiz Moreno,59381726B,adrian.ruiz@fcbtest.com,623456782,2000-07-25,Defensa,2,España,182,1800000
+3,Luca,Fernandez Costa,38472615C,luca.fernandez@fcbtest.com,634567783,1999-01-18,Defensa,3,Argentina,185,2100000
+4,Pau,Martinez Vila,47261538D,pau.martinez@fcbtest.com,645678784,2001-11-05,Centrocampista,6,España,178,3200000
+5,Hugo,Navarro Perez,61538472E,hugo.navarro@fcbtest.com,656789785,1997-05-29,Centrocampista,8,México,176,3500000
+6,Leo,Santos Ribeiro,72615384F,leo.santos@fcbtest.com,667891786,1996-09-14,Delantero,9,Brasil,181,5200000
+7,Eric,Lopez Serrano,83726154G,eric.lopez@fcbtest.com,678912787,2002-02-20,Defensa,4,España,184,1700000
+8,Nil,Castro Alvarez,94837261H,nil.castro@fcbtest.com,689123788,2003-08-11,Centrocampista,14,España,177,1600000
+9,Thiago,Oliveira Mendes,15948372J,thiago.oliveira@fcbtest.com,690234789,1998-12-03,Delantero,11,Portugal,180,4100000
+10,Joan,Roca Vidal,26159483K,joan.roca@fcbtest.com,601345790,2001-04-17,Portero,13,España,191,1500000
+11,Mateo,Silva Torres,37261594L,mateo.silva@fcbtest.com,612456791,1999-06-08,Delantero,7,Uruguay,179,3900000
+12,Alex,Dominguez Ferrer,48372615M,alex.dominguez@fcbtest.com,623567792,2000-10-22,Centrocampista,21,España,174,2800000
+13,Ivan,Perez Molina,59483726N,ivan.perez@fcbtest.com,634678793,1997-01-30,Defensa,5,España,186,2300000
+14,Sergi,Alonso Cruz,61594837P,sergi.alonso@fcbtest.com,645789794,1998-07-19,Centrocampista,16,España,175,2600000
+15,Daniel,Ramirez Soto,72615948Q,daniel.ramirez@fcbtest.com,656891795,2002-09-27,Delantero,19,Chile,183,2000000

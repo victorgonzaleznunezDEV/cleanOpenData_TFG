@@ -1,0 +1,11 @@
+id,nombre,apellido,email,telefono,edad,fecha_nacimiento,ciudad,codigo_postal,salario
+1,Carlos,Gomez,carlos.gomez@email.com,612345678,34,1992-04-12,Madrid,28001,32000
+2,Ana,Lopez,ana.lopez@email,699112233,28,1997-11-03,Barcelona,08015,28000
+3,Pedro,Martinez,pedro.martinez@email.com,600998877,-5,1985-07-19,Valencia,46002,35000
+4,Lucia,Fernandez,lucia.fernandez@email.com,abc123456,41,1984-02-30,Sevilla,41001,41000
+5,Miguel,Ruiz,miguel.ruiz@email.com,622334455,130,1890-06-15,Bilbao,48009,29000
+6,Sara,Diaz,sara.diaz@email.com,655443322,25,2000-09-08,Vigo,36201,
+7,Juan,Garcia,juan.garcia@email.com,611223344,37,1988-01-20,Madrid,28A13,33000
+8,Elena,Sanchez,elena.sanchez@email.com,644556677,29,1996-13-01,Zaragoza,50008,27000
+9,David,Martin,david.martin@email.com,,45,1980-05-22,Malaga,29010,39000
+10,Laura,Jimenez,laura.jimenez@email.com,677889900,31,1994-08-14,,08080,31000

@@ -1,0 +1,8 @@
+codigo_contrato,fecha_adjudicacion,organo_contratacion,empresa_adjudicataria,persona_contacto,email_contacto,telefono_contacto,nif_contacto,direccion_contacto,importe_adjudicacion,procedimiento,estado
+CT-2026-001,10/04/2026,Area de Movilidad,Servicios Urbanos SL,Marta Ortega,marta.ortega@example.org,655123456,23456789D,"Calle Industria 10","15000,50",Abierto,Formalizado
+CT-2026-002,11/04/2026,Area de Cultura,Eventos Centro SA,Juan Torres,juan.torres@example.org,+34 666 222 111,34567890V,"Avenida Teatro 4","8000,00",Simplificado,Formalizado
+CT-2026-003,fecha_erronea,Area de Turismo,Viajes Locales SL,Ana Ruiz,ana.ruiz@example.org,677333222,45678901G,"Plaza Estacion 3",,Abierto,En revision
+CT-2026-004,12/04/2026,Area de Salud,Clinica Norte SL,,contacto-invalido,1234,,"Calle Salud 22","12000,00",Negociado,En revision
+CT-2026-004,12/04/2026,Area de Salud,Clinica Norte SL,,contacto-invalido,1234,,"Calle Salud 22","12000,00",Negociado,En revision
+CT-2026-005,13/04/2026,Area de Medio Ambiente,Eco Gestion SL,Luis Gomez,luis.gomez@example.org,688444333,Y1234567L,"Camino Parque 6","21000,25",Abierto,Formalizado
+
